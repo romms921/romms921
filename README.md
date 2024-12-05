@@ -1,4 +1,4 @@
-<h1 align="left">Rommulus Lewis</h1>
+<h1 align="left">Rommulus Lewis's Github Page</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://hatrabbits.com/en/random-image/"  />
+  <img height="300" src="https://hatrabbits.com/en/random-image/"  />
 </div>
 
 ###
@@ -55,8 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
   <img width="12" />
