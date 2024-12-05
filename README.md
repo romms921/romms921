@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://www.rommuluslewis.com/bh_2_full.PNG"  />
+  <img height="300" src="https://www.rommuluslewis.com/bh_2_full.PNG"  />
 </div>
 
 ###
