@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <h3> My Research </h3>
   
   <p>
     <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Lewis,+R+F" target="_blank">
@@ -30,6 +29,57 @@
   <p>
     <i>Current Interests: Strong Gravitational Lensing, Dark Matter, External Shear, Cosmology</i>
   </p>
+</div>
+
+###
+
+<div align="left">
+  <h3>📝 Selected Publications</h3>
+  
+  <div style="margin-bottom: 20px;">
+    <p>
+      <a href="https://arxiv.org/pdf/2602.12303" target="_blank" style="font-size: 16px; font-weight: bold; color: #0366d6;">
+        Astrophysics Wrapped 2025: Year-in-Review of Every Astrophysics arXiv Paper from 2025
+      </a>
+      <br>
+      <span style="color: #586069;">Rommulus Francis Lewis, Hetansh Shah, Amruth Alfred</span>
+      <br>
+      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
+      <br>
+      <a href="https://arxiv.org/abs/2602.12303" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
+      <a href="https://doi.org/10.48550/arXiv.2602.12303" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
+    </p>
+  </div>
+  
+  <div style="margin-bottom: 20px;">
+    <p>
+      <a href="https://arxiv.org/pdf/2607.07709" target="_blank" style="font-size: 16px; font-weight: bold; color: #0366d6;">
+        The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies
+      </a>
+      <br>
+      <span style="color: #586069;">Amruth Alfred, Shashpal Singh, Rommulus Francis Lewis, Alex Chow, Jeremy Lim, Masamune Oguri, Jose M. Diego, Tom Broadhurst</span>
+      <br>
+      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
+      <br>
+      <a href="https://arxiv.org/abs/2607.07709" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
+      <a href="https://doi.org/10.48550/arXiv.2607.07709" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
+    </p>
+  </div>
+  
+  <div style="margin-bottom: 20px;">
+    <p>
+      <a href="https://arxiv.org/pdf/2608.02723" target="_blank" style="font-size: 16px; font-weight: bold; color: #0366d6;">
+        The Research Impact of the Jodrell Bank Observatory and Other Facilities affected by the UK Science Funding Cuts in 2025
+      </a>
+      <br>
+      <span style="color: #586069;">Rommulus Francis Lewis, Amruth Alfred, Hetansh Shah</span>
+      <br>
+      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
+      <br>
+      <a href="https://arxiv.org/abs/2608.02723" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
+      <a href="https://doi.org/10.48550/arXiv.2608.02723" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
+    </p>
+  </div>
 </div>
 
 ###
