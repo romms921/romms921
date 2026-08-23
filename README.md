@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Aspiring Astrophysicist | Student Researcher | Observational Astronomer</h2>
+<h3 align="left">Aspiring Astrophysicist | Student Researcher | Observational Astronomer</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <h2>📝 Selected Publications</h2>
+  <h3>📝 Selected Publications</h3>
   
   
   <div style="margin-bottom: 20px;">
