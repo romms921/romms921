@@ -36,13 +36,15 @@
 <div align="left">
   <h3>📝 Selected Publications</h3>
   
+  <h2>First Author</h2>
+  
+  
   <div style="margin-bottom: 20px;">
     <p>
       <a href="https://arxiv.org/pdf/2602.12303" target="_blank" style="font-size: 16px; font-weight: bold; color: #0366d6;">
         Astrophysics Wrapped 2025: Year-in-Review of Every Astrophysics arXiv Paper from 2025
       </a>
       <br>
-      <span style="color: #586069;">Rommulus Francis Lewis, Hetansh Shah, Amruth Alfred</span>
     </p>
   </div>
   
@@ -52,7 +54,6 @@
         The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies
       </a>
       <br>
-      <span style="color: #586069;">Amruth Alfred, Shashpal Singh, Rommulus Francis Lewis, Alex Chow, Jeremy Lim, Masamune Oguri, Jose M. Diego, Tom Broadhurst</span>
     </p>
   </div>
   
@@ -62,7 +63,6 @@
         The Research Impact of the Jodrell Bank Observatory and Other Facilities affected by the UK Science Funding Cuts in 2025
       </a>
       <br>
-      <span style="color: #586069;">Rommulus Francis Lewis, Amruth Alfred, Hetansh Shah</span>
     </p>
   </div>
 </div>
