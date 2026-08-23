@@ -43,11 +43,6 @@
       </a>
       <br>
       <span style="color: #586069;">Rommulus Francis Lewis, Hetansh Shah, Amruth Alfred</span>
-      <br>
-      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
-      <br>
-      <a href="https://arxiv.org/abs/2602.12303" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
-      <a href="https://doi.org/10.48550/arXiv.2602.12303" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
     </p>
   </div>
   
@@ -58,11 +53,6 @@
       </a>
       <br>
       <span style="color: #586069;">Amruth Alfred, Shashpal Singh, Rommulus Francis Lewis, Alex Chow, Jeremy Lim, Masamune Oguri, Jose M. Diego, Tom Broadhurst</span>
-      <br>
-      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
-      <br>
-      <a href="https://arxiv.org/abs/2607.07709" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
-      <a href="https://doi.org/10.48550/arXiv.2607.07709" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
     </p>
   </div>
   
@@ -73,11 +63,6 @@
       </a>
       <br>
       <span style="color: #586069;">Rommulus Francis Lewis, Amruth Alfred, Hetansh Shah</span>
-      <br>
-      <span style="color: #586069; font-style: italic;">arXiv Preprint, 2026</span>
-      <br>
-      <a href="https://arxiv.org/abs/2608.02723" style="background-color: #b31b1b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">arXiv:xxxx.xxxxx</a>
-      <a href="https://doi.org/10.48550/arXiv.2608.02723" style="background-color: #0366d6; color: white; padding: 2px 8px; border-radius: 3px; font-size: 12px; text-decoration: none;">DOI</a>
     </p>
   </div>
 </div>
