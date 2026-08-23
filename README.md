@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=romms921&theme=ocean_dark" height="160" alt="romms921" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romms921&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph" height="160" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=romms921&theme=ocean_dark" height="150" alt="romms921" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romms921&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
