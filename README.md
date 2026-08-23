@@ -23,10 +23,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romms921&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph" height="250" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <p align="center" style="display:flex; flex-direction:row;">
