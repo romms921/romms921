@@ -12,6 +12,26 @@
   <img height="300" src="bh_2_full copy.png"  />
 </div>
 
+<div align="center">
+  <h3> My Research </h3>
+  
+  <p>
+    <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Lewis,+R+F" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white" alt="arXiv" />
+    </a>
+    <a href="https://inspirehep.net/authors/3121264?ui-citation-summary=true" target="_blank">
+      <img src="https://img.shields.io/badge/INSPIRE-HEP-0055FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOCAwQzMuNTggMCAwIDMuNTggMCA4czMuNTggOCA4IDggOC0zLjU4IDgtOC0zLjU4LTgtOC04eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0xMS4zIDUuM0w4IDguNiA0LjcgNS4zIDMuNiA2LjQgOCAxMC44bDQuNC00LjR6IiBmaWxsPSIjMDA1NUZGIi8+PC9zdmc+" alt="INSPIRE HEP" />
+    </a>
+    <a href="https://scholar.google.com/citations?user=nOwUFQcAAAAJ&hl=en" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar" />
+    </a>
+  </p>
+  
+  <p>
+    <i>Current Interests: Strong Gravitational Lensing, Dark Matter, External Shear, Cosmology</i>
+  </p>
+</div>
+
 ###
 
 <div align="center">
