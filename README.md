@@ -74,7 +74,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" height="450" alt="activity-graph graph"  />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="450" alt="activity-graph graph"  />
 </div>
 
 ###
