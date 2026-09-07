@@ -69,7 +69,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=romms921&theme=ocean_dark" height="150" alt="romms921" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" height="250" alt="activity-graph graph"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" height="450" alt="activity-graph graph"  />
 </div>
 
 ###
